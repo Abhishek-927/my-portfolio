@@ -221,4 +221,11 @@
   .banner-right > img {
     width: 100%;
   }
+  .skill-bx {
+    padding: 50px 10px;
+  }
+  .footer > div {
+    gap: 10px;
+    text-align: center;
+  }
 }
